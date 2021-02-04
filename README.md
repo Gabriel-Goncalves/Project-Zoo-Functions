@@ -239,17 +239,3 @@ Antes de começar, analise o arquivo `src/data.js`, para ver os dados que serão
   - Com o último nome de um funcionário, retorna os animais pelos quais o funcionário é responsável
 
 ---
-
-## Avisos Finais
-
-### REVISANDO UM PULL REQUEST
-
-À medida que você e as outras pessoas que estudam na Trybe forem entregando os projetos, vocês receberão um alerta via Slack para também fazer a revisão dos Pull Requests dos seus colegas. Fiquem atentos às mensagens do "Pull Reminders" no Slack!
-
-Use o material que você já viu sobre [Code Review](https://course.betrybe.com/real-life-engineer/code-review/) para te ajudar a revisar os projetos que chegaram para você.
-
-### AVALIAÇÃO DO PROJETO
-
-Ao finalizar e submeter o projeto, não se esqueça de avaliar sua experiência preenchendo o formulário. Leva menos de 3 minutos!
-
----
